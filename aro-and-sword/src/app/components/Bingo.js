@@ -96,7 +96,7 @@ export default function Bingo() {
 
 
 		const watermarkText = document.createElement("div");
-		watermarkText.textContent = "https://aro-and-sword.vercel.app/";
+		watermarkText.textContent = "https://aro-n-sword.com";
 		watermarkText.className = "watermark-text";
 		wrapper.appendChild(watermarkText);
 
